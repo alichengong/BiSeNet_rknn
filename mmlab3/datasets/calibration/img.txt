@@ -1,0 +1,1 @@
+/home/chengong/code/opt/BiSeNet_rknn/mmlab3/datasets/calibration/cityscapes.png
